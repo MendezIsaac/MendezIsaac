@@ -31,21 +31,14 @@
     <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
   </a>
   &emsp;
+ 
    <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-   <a>
-    <img alt="redis" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+    <img alt="CODEPEN" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
   &emsp;
 
   <a>
-    <img alt="redis" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img alt="NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   </a>
   &emsp;
 </p>

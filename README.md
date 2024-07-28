@@ -68,7 +68,7 @@
   &emsp;
     <a>
     <img alt="redis" src="  <a>
-    <img alt="redis" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+    <img alt="redis" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
   &emsp;"/>
   </a>

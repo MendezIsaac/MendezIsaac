@@ -1,5 +1,5 @@
 
-# Welcome to free format👋
+# Welcome to free formatting👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 

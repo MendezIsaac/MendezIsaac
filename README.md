@@ -4,7 +4,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 ## My tech stack
 
@@ -62,7 +62,6 @@
     <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
   </a>
   &emsp;
-
 </p>
 
 
@@ -74,8 +73,6 @@
   <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
-
-
 </p>
 
 -----

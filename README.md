@@ -3,7 +3,6 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-----------
 
 
 ## My tech stack
@@ -48,7 +47,7 @@
   </a>
   &emsp;
 </p>
-
+----------------
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅

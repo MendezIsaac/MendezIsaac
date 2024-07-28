@@ -15,15 +15,15 @@
   </a> 
   &emsp;
   <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   </a> 
   &emsp;
   <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="C#" src="//img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
    </a>
   &emsp;
   <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>
   &emsp;
    <a>

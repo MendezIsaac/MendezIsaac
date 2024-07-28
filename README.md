@@ -41,6 +41,11 @@
     <img alt="NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   </a>
   &emsp;
+
+   <a>
+    <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  &emsp;
 </p>
 
 

@@ -62,9 +62,7 @@
     <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
   </a>
   &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
-  </a>
+
 </p>
 
 

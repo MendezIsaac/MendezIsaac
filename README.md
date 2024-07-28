@@ -42,6 +42,11 @@
     <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
   &emsp;
+
+  <a>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+  &emsp;
 </p>
 
 
